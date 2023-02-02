@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELLCOME&fontSize=90" />
+
 ### 안녕하세요!
 #### 웹 엔지니어를 목표로 하고 있는 장의영 입니다.
 
