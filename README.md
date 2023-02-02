@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**yeongi/yeongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELLCOME&fontSize=90" />
+### 안녕하세요!
+#### 웹 엔지니어를 목표로 하고 있는 장의영 입니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**yeongi/yeongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongi&show_icons=true&theme=radical)
+
